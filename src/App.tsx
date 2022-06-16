@@ -11,7 +11,6 @@ import { resources as vresources } from 'validation-core';
 import { DefaultCsvService, resources } from 'web-clients';
 import { resources as locales } from './core/resources';
 
-
 import { config } from './config';
 import AboutPage from './core/about';
 import HomePage from './core/home';
